@@ -3,8 +3,8 @@
 Readme · MD
 # SEPM-001: Static vs Non-Static Variables in Multithreading
 ``` 
-**Name:Suma Akter
-**Student ID: IT24036
+**Name:Umme Kulsum Suma
+**Student ID: IT24052
 **Course : Software Engineering and Project Managemnet
 **Date: 11-10-2026
  ```
