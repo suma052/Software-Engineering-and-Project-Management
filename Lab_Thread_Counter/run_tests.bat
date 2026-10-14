@@ -1,5 +1,5 @@
 @echo off
-set CLASS=Mahmud_Thread
+set CLASS=Suma_Thread
 del results.txt 2>nul
 
 for %%T in ("1 1000" "2 10000" "5 10000" "10 50000" "20 50000" "50 50000" "100 50000") do (
